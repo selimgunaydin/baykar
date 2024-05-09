@@ -3,3 +3,5 @@ node_modules
 .eslintrc.cjs
 yarn.lock
 *~
+baykar-frontend-app/pnpm-lock.yaml
+baykar-quiz-app/pnpm-lock.yaml

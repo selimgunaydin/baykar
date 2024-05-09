@@ -123,9 +123,7 @@ export default function Footer() {
           </li>
           <li className="flex items-center space-x-2">
             <img src="/world.png" alt="world" />
-            <div className="pt-1">
               <a href="#">EN</a>
-            </div>
           </li>
         </ul>
       </div>
